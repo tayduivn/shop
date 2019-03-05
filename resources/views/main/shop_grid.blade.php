@@ -1,10 +1,9 @@
-﻿
-@include('page.css_heading')
+﻿@include('page.css_heading')
 
 <body class="shop_grid_page">
 
 <div id="page"> 
- 
+
   <!-- Header -->
   @include('page.header')
   <!-- end header --> 
@@ -906,7 +905,6 @@
   @include('page.footer')
   <!-- End Footer -->
   
-
 </div>
 
 @include('page.js_footing')

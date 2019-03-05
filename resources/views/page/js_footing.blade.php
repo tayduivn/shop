@@ -1,16 +1,7 @@
 <!-- mobile menu -->
 <div id="jtv-mobile-menu" class="jtv-mobile-menu">
   <ul>
-    <li class=""><a href="index.html">Home</a>
-      <ul class="sub-menu">
-        <li><a href="http://htmlmystore.justthemevalley.com/genius/index.html">Fruits Store</a></li>
-        <li><a href="http://htmlmystore.justthemevalley.com/genius/Version2/index.html">Shoes Store</a></li>
-        <li><a href="http://htmlmystore.justthemevalley.com/genius/Version3/index.html">Fashion Store</a></li>
-        <li><a href="http://htmlmystore.justthemevalley.com/genius/Version4/index.html">Jewellery Store</a></li>
-        <li><a href="index.html">Electronic Store</a></li>
-        <li><a href="http://htmlmystore.justthemevalley.com/genius/rtl-fruits-store/index.html">RTL Fruits Store</a></li>
-      </ul>
-    </li>
+    <li class=""><a href="index.html">Home</a></li>
     <li><a href="shop_grid.html">Pages</a>
       <ul>
         <li><a href="shop_grid.html" class="">Shop Pages </a>
@@ -158,39 +149,28 @@
 
 <!-- jquery js --> 
 <script type="text/javascript" src="public/template/js/jquery.min.js"></script> 
-
 <!-- bootstrap js --> 
 <script type="text/javascript" src="public/template/js/bootstrap.min.js"></script> 
-
 <!-- Mean Menu js --> 
 <script type="text/javascript" src="public/template/js/jquery.meanMenu.min.html"></script> 
-
 <!-- owl.carousel.min js --> 
 <script type="text/javascript" src="public/template/js/owl.carousel.min.js"></script> 
-
 <!-- bxslider js --> 
 <script type="text/javascript" src="public/template/js/jquery.bxslider.js"></script> 
-
 <!--jquery-ui.min js --> 
 <script type="text/javascript" src="public/template/js/jquery-ui.js"></script> 
-
 <!-- wow JS --> 
 <script type="text/javascript" src="public/template/js/wow.min.js"></script> 
-
 <!-- flexslider js --> 
 <script type="text/javascript" src="public/template/js/jquery.flexslider.js"></script> 
-
 <!-- mobile Menu JS --> 
 <script type="text/javascript" src="public/template/js/jtv-mobile-Menu.js"></script> 
 <!-- main js --> 
 <script type="text/javascript" src="public/template/js/main.js"></script> 
-
 <!-- countdown js --> 
 <script type="text/javascript" src="public/template/js/countdown.js"></script> 
-
 <!-- nivo slider js --> 
 <script type="text/javascript" src="public/template/js/jquery.nivo.slider.js"></script> 
-
 <!-- revolution slider js --> 
 <script type="text/javascript" src="public/template/js/revolution-slider.js"></script> 
 <script type='text/javascript'>

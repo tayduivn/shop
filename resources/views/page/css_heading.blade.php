@@ -4,7 +4,8 @@
 <!-- Basic page needs -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Genius-Responsive-HTML5 &amp; CSS3 template</title>
+<title>SmartPhone Online</title>
+<base href="{{asset('')}}">
 <meta name="description" content="">
 
 <!-- Mobile specific metas  -->
